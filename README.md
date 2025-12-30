@@ -39,7 +39,7 @@ By completing this challenge, this repository showcases:
   <img 
     src="images/snow.gif" 
     alt="Subtle snowfall animation"
-    width="55%"
+    width="70%"
   />
 </p>
 
