@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/christmas-banner.png" width="100%" alt="SQL Advent Calendar Banner"/>
+  <img src="images/christmas-banner.png" width="100%" alt="SQL Advent Calendar Banner"/>
 </p>
 
 # 🎄 SQL Advent Calendar 2025 ❄️
