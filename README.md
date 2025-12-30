@@ -15,7 +15,7 @@
 Each day unlocks a new challenge - just like opening an advent calendar 🎄💡
 
 <p align="center">
-  <img src="assets/snow.gif" width="250" alt="Falling snow animation"/>
+  <img src="images/snow.gif" width="100%" alt="Falling snow animation"/>
 </p>
 
 ---
